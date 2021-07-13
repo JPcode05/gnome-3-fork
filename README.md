@@ -12,7 +12,8 @@ To help contribute to the development of the project, go to [its repository on G
 I have already forked [gnome-shell](https://github.com/JPcode05/gnome-shell).
 
 Future plans:
+* Fork some other GNOME applications
 * GTK4 support, like MATE added GTK3
 * Move repository to Codeberg/Sourcehut (and GitHub remains secondary).
 
-Made by James Pearson AKA [@JPcode05 on GitHub].
+Made by James Pearson AKA [@JPcode05 on GitHub](https://github.com/JPcode05).
