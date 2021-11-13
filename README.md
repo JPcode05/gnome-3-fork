@@ -15,6 +15,8 @@ I have already forked [gnome-shell](https://github.com/JPcode05/gnome-shell).
 Future plans:
 * Fork some other GNOME applications
 * GTK4 support, like MATE added GTK3
+* Qt and EFL support
+* No dependency on systemd, can use on BSD
 * Move repository to Codeberg/Sourcehut (and GitHub remains secondary).
 
 IRC: `[##gnome-3-fork](https://web.libera.chat/gamja/?channels=##gnome-3-fork)` on libera.chat for now...
