@@ -1,4 +1,5 @@
 # GNOME 3 Fork
+
 GNOME 40 is the biggest change to GNOME since GNOME 3. Some like it, but some, like me, don't.
 
 Many didn't like GNOME 3 when _it_ came out. GNOME 2 was even forked to MATE.
@@ -16,4 +17,6 @@ Future plans:
 * GTK4 support, like MATE added GTK3
 * Move repository to Codeberg/Sourcehut (and GitHub remains secondary).
 
-Made by James Pearson AKA [@JPcode05 on GitHub](https://github.com/JPcode05).
+IRC: `[##gnome-3-fork](https://web.libera.chat/gamja/?channels=##gnome-3-fork)` on libera.chat for now...
+
+Made by [James Pearson](https://jamespearson.xyz) AKA [@JPcode05 on GitHub](https://github.com/JPcode05).
