@@ -19,6 +19,6 @@ Future plans:
 * No dependency on systemd, can use on BSD
 * Move repository to Codeberg/Sourcehut (and GitHub remains secondary).
 
-IRC: `[#flamingo](https://web.libera.chat/gamja/?channels=#flamingo)` on [libera.chat](https://libera.chat/).
+IRC: [`#flamingo`](https://web.libera.chat/gamja/?channels=#flamingo) on [libera.chat](https://libera.chat/).
 
 Made by [James Pearson](https://jamespearson.xyz/) AKA [@JPcode05 on GitHub](https://github.com/JPcode05).
