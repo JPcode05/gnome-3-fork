@@ -13,7 +13,8 @@ To help contribute to the development of the project, go to [its repository on G
 I have already forked [gnome-shell](https://github.com/JPcode05/flamingo-shell).
 
 Future plans:
-* Fork some other GNOME applications, such as Nautilus (and bring back desktop icons)
+* Fork some other GNOME applications, such as [Nautilus](https://github.com/GNOME/nautilus/tree/gnome-3-38) (and bring back desktop icons)
+* Tiling and [Cosmic](https://github.com/pop-os/cosmic) extensions from [Pop Shell](https://github.com/pop-os/shell)
 * GTK4 support, like MATE added GTK3
 * Qt and EFL support
 * No dependency on systemd, can use on BSD
